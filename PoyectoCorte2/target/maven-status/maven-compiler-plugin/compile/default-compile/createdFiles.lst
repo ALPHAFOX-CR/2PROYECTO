@@ -1,0 +1,11 @@
+Modelo\Oficina.class
+Modelo\Cibercrimen.class
+Modelo\Direccion.class
+Modelo\Sospechoso.class
+Modelo\Homicidio.class
+Modelo\Bitacora.class
+Modelo\Anotacion.class
+Modelo\Narcotico.class
+Modelo\Caso.class
+Vista\Prueba.class
+Modelo\Detective.class
